@@ -382,7 +382,7 @@
             <base>BASE</base>
             <listener>
                <name>BASE</name>
-               <listen-port>19736</listen-port>
+               <listen-port>9736</listen-port>
                <selectors>1</selectors>
                <use-dual-selector>false</use-dual-selector>
                <backlog>128</backlog>
