@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<accounts xmlns="http://www.tmaxsoft.com/xml/ns/jeus">
+<?xml version="1.0"?>
+<accounts xmlns="http://www.tmaxsoft.com/xml/ns/jeus" version="8.0">
     <users>
         <user>
             <name>jeus</name>
             <password>{base64}amV1cw==</password>
             <group>Administrators</group>
-            <description>No description</description>
         </user>
     </users>
     <groups>
         <group>
-            <name>Administrators</name>
             <description>A group for administrators</description>
+            <name>Administrators</name>
         </group>
     </groups>
 </accounts>
